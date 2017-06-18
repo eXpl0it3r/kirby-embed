@@ -24,7 +24,7 @@ gulp.task('css-field', function() {
 });
 
 gulp.task('js', function() {
-  return gulp.src('assets/js/src/oembed.js')
+  return gulp.src('assets/js/src/embed.js')
     .pipe(uglify())
     .pipe(gulp.dest('assets/js'));
 });
