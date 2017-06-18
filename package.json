@@ -2,7 +2,7 @@
   "name": "embed",
   "description": "Kirby Embed Plugin",
   "author": "Nico Hoffmann <nico@getkirby.com>",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "type": "kirby-plugin",
   "license": "MIT",
   "repository": {

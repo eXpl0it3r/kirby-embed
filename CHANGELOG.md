@@ -1,7 +1,7 @@
 # Changelog
 
 ## [3.0.2](https://github.com/distantnative/embed/releases/tag/3.0.2) (2017-06-18)
-:bug: Javascript on IE: workaround for this.remove()
+:bug: Javascript on IE: workaround for this.remove()  
 
 ## [3.0.1](https://github.com/distantnative/embed/releases/tag/3.0.1) (2017-03-31)
 :balloon: Safer handling of thumb if directory is not writable  
