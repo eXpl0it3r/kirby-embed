@@ -1,10 +1,11 @@
-![Embed for Kirby CMS](https://distantnative.com/remote/github/embed/logo.png)  
+# Embed for Kirby 2 CMS
 
 [![Release](https://img.shields.io/github/release/distantnative/embed.svg)](https://github.com/distantnative/embed/releases) 
 [![Issues](https://img.shields.io/github/issues/distantnative/embed.svg)](https://github.com/distantnative/embed/issues) ![Kirby Version](https://img.shields.io/badge/Kirby-2.3%2B-red.svg)
 
 Embed extends [Kirby](http://getkirby.com) with some extensive media embed functionalities. It enables Kirby to display embeds from various media sites (e.g. YouTube, Vimeo, Soundcloud, Instagram etc.) by only providing the URL to the medium. It is powered by the [oscarotero/Embed](https://github.com/oscarotero/Embed) library.
 
+**With the release of [Kirby 3](https://getkirby.com), this plugin has been archived and will not be maintained.**
 
 ## Table of Contents
 1. [Requirements](#Requirements)
